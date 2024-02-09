@@ -14,7 +14,7 @@ let c = 0;
 let range = 100; //adjusts the pupil range
 //words
 let n = 0;
-let touch = ["yeah", "nice", "alright", "good job", "fantastic", "sure", "cool", "good", "great", "awesome"];
+let touch = ["ow", "ouch", "stop", "stop it", "quit", "cesae", "that hurts", "hate", "pain", "i dont like it"];
 
 //tears
 class Goop {
